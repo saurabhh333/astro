@@ -1,0 +1,11 @@
+vedic_astrology_app/
+│── backend/
+│   ├── app.py            # Main API
+│   ├── auth.py           # Login system
+│   ├── astrology.py      # Lagna, KP, Vimshottari
+│   ├── transits.py       # Planetary transits
+│   ├── database.py       # SQLite DB connection
+│   ├── config.py         # Config settings
+│   ├── swisseph/         # Swiss Ephemeris files
+│── frontend/ (React UI)
+│── venv/ (Virtual Env)
