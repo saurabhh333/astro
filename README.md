@@ -1,4 +1,4 @@
-# astro
+# astro web based app
 
  Features:
 * Lagna Chart
