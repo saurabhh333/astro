@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/frontend/static/js/main.1beda661.js",
-    "index.html": "/frontend/index.html",
-    "main.1beda661.js.map": "/frontend/static/js/main.1beda661.js.map"
+    "main.js": "/astro/static/js/main.1beda661.js",
+    "index.html": "/astro/index.html",
+    "main.1beda661.js.map": "/astro/static/js/main.1beda661.js.map"
   },
   "entrypoints": [
     "static/js/main.1beda661.js"
