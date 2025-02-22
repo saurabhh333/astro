@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/astro/static/js/main.1beda661.js",
+    "index.html": "/astro/index.html",
+    "main.1beda661.js.map": "/astro/static/js/main.1beda661.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1beda661.js"
+  ]
+}
